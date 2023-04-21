@@ -8,15 +8,15 @@
 - notes go here
 
 ## pitch
-- My research topic is:
-- My research question is:
-- I expect to work with the following *materials*:
+- My research topic is: video game emulation
+- My research question is: how can the university of oregon develop a method for accessible video game emulation?
+- I expect to work with the following *materials*: 
 - I plan to *process* these materials by:
-- I plan to *present* these materials by:
-- My final submission will take this form: 
-- This project is intended to engage these audiences and communities:
-- I bring the following existing knowledge and/or skills to the project: 
-- In order to do this project, I need to learn: 
+- I plan to *present* these materials by: project outline written in markdown, and guide written on a seperate repository
+- My final submission will take this form: a project outline and guide for digital video game emulation + what the uo dream lab is looking for
+- This project is intended to engage these audiences and communities: scholars who want to study video games out of production, university students who want to play/experience these video games, and anyone who is interested. 
+- I bring the following existing knowledge and/or skills to the project: experience with digital video game emulation, technical expertise, coding expertise, assocation and connection with people who may help me develop this projcet
+- In order to do this project, I need to learn: the best methods for emulation, the most popular platforms, future-proofing emulation, accessible emulation methods, safety of promotion of freeware that can be associated with piracy
 
 ---
 # week 4 
