@@ -8,15 +8,15 @@
 - notes go here
 
 ## pitch
-- My research topic is: video game emulation
-- My research question is: how can the university of oregon develop a method for accessible video game emulation, and why is it important?
-- I expect to work with the following *materials*: legal cases, scholarly articles about video game preservation, popular media with expertise into emulation, video game datasets, video game ROM's and emulators, interviews with experts such as UO faculty 
-- I plan to *process* these materials by: summarize and citing important parts, as well as transcribing or recording interviews, compiling a detailed bibliography
-- I plan to *present* these materials by: project outline and emulation guide written in markdown on github, written plans for physical and digital emulation emulation, and a written history of emulation and why it's important. 
-- My final submission will take this form: a project outline and guide for digital video game emulation + what the uo dream lab is looking for, as well as additional research documenting the history and legality of video game emulation, and why it's important.
-- This project is intended to engage these audiences and communities: scholars who want to study video games out of production, university students who want to play/experience these video games, and anyone who is interested. 
-- I bring the following existing knowledge and/or skills to the project: experience with digital video game emulation, journalistic interview and research background, technical expertise, coding expertise, assocation and connection with people who may help me develop this project
-- In order to do this project, I need to learn: the best methods for emulation, the most popular platforms, future-proofing emulation, accessible emulation methods, safety of promotion of freeware that can be associated with piracy, legal precedents for emulation and ROM's, 
+- __My research topic is:__ video game emulation
+- __My research question is:__ how can the university of oregon develop a method for accessible video game emulation, and why is it important?
+- __I expect to work with the following *materials*:__ legal cases, scholarly articles about video game preservation, popular media with expertise into emulation, video game datasets, video game ROM's and emulators, interviews with experts such as UO faculty 
+- __I plan to *process* these materials by:__ summarize and citing important parts, as well as transcribing or recording interviews, compiling a detailed bibliography
+- __I plan to *present* these materials by:__ project outline and emulation guide written in markdown on github, written plans for physical and digital emulation emulation, and a written history of emulation and why it's important. 
+- __My final submission will take this form:__ a project outline and guide for digital video game emulation + what the uo dream lab is looking for, as well as additional research documenting the history and legality of video game emulation, and why it's important.
+- __This project is intended to engage these audiences and communities:__ scholars who want to study video games out of production, university students who want to play/experience these video games, and anyone who is interested. 
+- __I bring the following existing knowledge and/or skills to the project:__ experience with digital video game emulation, journalistic interview and research background, technical expertise, coding expertise, assocation and connection with people who may help me develop this project
+- __In order to do this project, I need to learn:__ the best methods for emulation, the most popular platforms, future-proofing emulation, accessible emulation methods, safety of promotion of freeware that can be associated with piracy, legal precedents for emulation and ROM's, 
 
 ---
 # week 4 
