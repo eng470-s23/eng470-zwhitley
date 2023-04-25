@@ -16,7 +16,7 @@
 - __My final submission will take this form:__ a project outline and guide for digital video game emulation + what the uo dream lab is looking for, as well as additional research documenting the history and legality of video game emulation, and why it's important.
 - __This project is intended to engage these audiences and communities:__ scholars who want to study video games out of production, university students who want to play/experience these video games, and anyone who is interested. 
 - __I bring the following existing knowledge and/or skills to the project:__ experience with digital video game emulation, journalistic interview and research background, technical expertise, coding expertise, assocation and connection with people who may help me develop this project
-- __In order to do this project, I need to learn:__ the best methods for emulation, the most popular platforms, future-proofing emulation, accessible emulation methods, safety of promotion of freeware that can be associated with piracy, legal precedents for emulation and ROM's, 
+- __In order to do this project, I need to learn:__ the best methods for emulation, the most popular platforms, future-proofing emulation, accessible emulation methods, safety of promotion of freeware that can be associated with piracy, legal precedents for emulation and ROM's
 
 ---
 # week 4 
