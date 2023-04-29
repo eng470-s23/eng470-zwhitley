@@ -21,7 +21,8 @@
 ---
 # week 4 
 ## notes
-- notes go here
+-  reading log, search log and bibliography are available on this link
+-  https://docs.google.com/spreadsheets/d/1wlKhkpXB_j9ok4FFwqscPbDApJv5kd4FvP6GCZYJSy8/edit?usp=sharing
 
 ## search log
 - search log goes here
