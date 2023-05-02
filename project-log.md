@@ -21,8 +21,7 @@
 ---
 # week 4 
 ## notes
--  reading log, search log and bibliography are available on this link
--  https://docs.google.com/spreadsheets/d/1wlKhkpXB_j9ok4FFwqscPbDApJv5kd4FvP6GCZYJSy8/edit?usp=sharing
+- i have been having trouble finding suitable sources that are specifically and visibly peer reviewed
 
 ## search log
 - search log goes here
@@ -46,7 +45,6 @@
 6. source #6 - https://heinonline.org/HOL/Page?handle=hein.journals/berktech16&div=10&g_sent=1&casa_token=&collection=journals
 7. source #7 - https://heinonline.org/HOL/Page?handle=hein.journals/sufflr36&div=50&g_sent=1&casa_token=&collection=journals
 
-note: i have been having trouble finding suitable sources that are specifically and visibly peer reviewed
 
 ## reading plan
 - 5/1 Sony Computer Entertainment, Inc. v. Connectix Corp.
