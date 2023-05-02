@@ -26,10 +26,10 @@
 
 ## search log
 - search log goes here
-- UO Library	4/28	"video game preservation"	3,170
+- UO Library	4/28	"video game preservation"	3,170 results
 - UO Library	4/28	"video game emulation"; journal articles	51 results
-- Google Scholar	4/28	"Sony Computer Entertainment, Inc. v. Connectix Corp."	690	(explicitly searched for this case)
-- Google Scholar	4/28	"video game emulation"	47,100
+- Google Scholar	4/28	"Sony Computer Entertainment, Inc. v. Connectix Corp."	690	results (explicitly searched for this case)
+- Google Scholar	4/28	"video game emulation"	47,100 results
 - 
 
 ## bibliography
