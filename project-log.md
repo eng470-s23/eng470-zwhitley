@@ -46,6 +46,8 @@
 6. source #6 - https://heinonline.org/HOL/Page?handle=hein.journals/berktech16&div=10&g_sent=1&casa_token=&collection=journals
 7. source #7 - https://heinonline.org/HOL/Page?handle=hein.journals/sufflr36&div=50&g_sent=1&casa_token=&collection=journals
 
+note: i have been having trouble finding suitable sources that are specifically and visibly peer reviewed
+
 ## reading plan
 - 5/1 Sony Computer Entertainment, Inc. v. Connectix Corp.
 - 5/2 Saving (and Re-Saving) Videogames: Rethinking Emulation for Preservation, Exhibition and Interpretation
