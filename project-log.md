@@ -55,7 +55,7 @@
 ---
 # week 5
 ## notes
-- notes go here
+- this annotated bibliography is intended for private usage to help keep a specific journal of the usage of each source of research. 
 
 ## research question
 
