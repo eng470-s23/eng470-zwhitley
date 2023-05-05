@@ -40,7 +40,7 @@
 1. source #1 - https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_emerald_primary_10_1108_RMJ-10-2016-0037
 2. source #2 - https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_crossref_primary_10_33008_IJCMR_2019_08
 3. source #3 - https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1ej399r/alma99900265175501852
-4. source #4 - https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_crossref_primary_10_7238_idp_v0i14_1546
+4. source #4 - https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1ej399r/alma99900832899001852
 5. source #5 - https://alliance-uoregon.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_primary_10_7238_idp_v0i14_1546&context=PC&vid=01ALLIANCE_UO:UO&lang=en&search_scope=Everything&adaptor=Primo%20Central&tab=Rollup&query=any,contains,video%20game%20emulation&offset=0
 6. source #6 - https://heinonline.org/HOL/Page?handle=hein.journals/berktech16&div=10&g_sent=1&casa_token=&collection=journals
 7. source #7 - https://heinonline.org/HOL/Page?handle=hein.journals/sufflr36&div=50&g_sent=1&casa_token=&collection=journals
