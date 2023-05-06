@@ -77,9 +77,11 @@ Technology Law Journal, vol. 16, no. 1, 2001, pp. 33-52. HeinOnline.
 - potential use for project: emulators are a very complex and legal grey area, and this helps explain why.
 
 ### source 3 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Libby, Jeffrey S. "The Best Games in Life Are Free: Videogame Emulation in a
+Copyrighted World." Suffolk University Law Review, vol. 36, no. 3, 2003, pp. 843-862.
+HeinOnline. 
+- summary: This 2003 article from Suffolk University Law Review by Jeffrey S. Libby sets and tells the history of emulation, and pushes readers towards emulation archiving – especially with the possibility of nothing being left in less than fifty years. Video game EPROMs, batteries, SRAM’s and circuit boards will be physically beyond repair for the original hardware, with the potential for some games to go extinct. This article recaps history, from early computer creation, to Sony v. Connectix. Additionally, current legal implications and ramifications going forward, such as tarnishment actions against the emulation industry, should customers associate poor performance with the original console, and not the emulated software. This also raises questions about ROM’s, which are the encoded games playable on emulators. If the ROM’s are not uploaded from the game itself, it is considered copyright infringement. 
+- potential use for project: This article is 20 years old, but still highlights an important problem that has yet to be solved; video game life expectancy. These conversations were happening two decades ago, but nothing substantive has been done to push for legal and accessible preservation. 
 
 ---
 # week 6
