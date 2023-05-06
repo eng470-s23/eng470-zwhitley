@@ -70,8 +70,10 @@
 - potential use for project: highlighting the importance use of emulation.
 
 ### source 2 annotation
-- citation: 
-- summary: 
+- citation: 203 F.3d 596 (9th Cir. 2000) // Karas, Stan. "Sony Computer Entertainment, Inc. v. Connectix Corp. ." Berkeley
+Technology Law Journal, vol. 16, no. 1, 2001, pp. 33-52. HeinOnline. 
+
+- summary: In this 1999-2000 case from the United States Court of Appeals for the Ninth Circuit, Connectix, Inc., was sued by Sony Computer Entertainment, Inc for the development of a Playstation emulator, “Virtual Game Station.” None of Sony’s computer code was within the emulator, but the process was reverse engineered. In the district decision, the court prohibited the marketing of the VGS and rejected the defense of “fair use.” However, on appeal, the Ninth Circuit Court determined that it did in fact constitute fair use. Disassembly for the purposes of reverse engineering is legal, and Sony’s original code and BIOS program contained too many aspects that could not be considered copyrightable. The code being entirely new was consistent with “transformative in nature” copyright laws. While the Playstation and VGS can play the same games, the VGS is a “wholly new product.”
 - potential use for project: 
 
 ### source 3 annotation
