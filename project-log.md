@@ -65,9 +65,9 @@
 - *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Newman, James. “Saving (and Re-Saving) Videogames: Rethinking Emulation for Preservation, Exhibition and Interpretation.” International Journal of Creative Media Research 1.1 (2019): n. pag. Web.
+- summary: In this article for The International Journal of Creative Media Research, Newman argues against the “fetishization” of audiovisual accuracy in video game emulation. In its place, Newman focuses on the “transformative nature of emulation” – such as the unique tools that are offered when played through an emulator like the “savestate.” Taking in these new considerations, games can preserved to keep the original state in mind, as well as embracing features which allow for opportunities away from the original game experience. 
+- potential use for project: highlighting the importance use of emulation.
 
 ### source 2 annotation
 - citation: 
