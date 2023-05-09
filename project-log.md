@@ -58,7 +58,7 @@
 - this annotated bibliography is intended for private usage to help keep a specific journal of the usage of each source of research. 
 
 ## research question
-
+how can the university of oregon develop a method for accessible video game emulation, and why is it important?
 ## annotated bibliography
 *Each annotation should include:*
 - *a full citation in Chicago, MLA, APA, or AP style (or another style appropriate to your discipline, with approval)*
