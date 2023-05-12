@@ -116,22 +116,26 @@ HeinOnline.
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- respond here 
+- I would like to put together a project proposal for the University of Oregon administration. This project would encompass digital game studies and media studies, with a focus on video game emulation. The purpose of the project is to put together a plan for setting up video game emulation on campus for research and preservation purposes. My goal is to provide detailed methods for 5-10 separate types of video game consoles, with room for expansion. 
+
+- This would help resolve the ongoing problem of retro video games becoming increasingly hard to study, as the hardware physically decays over time, with no feasible alternative. My project would advocate for the setup of a digital video game archive, digital video game emulator(s), and more. This contributes to the ongoing scholarly conversation regarding video game preservation and emulation, as well as pushing to help solve the legal gray area. 
+
+- While I will be graduating, I hope to leave this project proposal for someone else to pick up and continue. 
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- respond here 
+- With my tools and methods, I anticipate making use of the research I have collected digitally, as well as physical books I have checked out. As for my project proposal, I will write it on github. For developing and choosing the emulators I plan to highlight, I want to evaluate them on specific criteria. The total catalog of platforms on an emulator, reproducibility, accessible controller inputs, and legality. 
 
 ### stakeholders / audiences
 *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- respond here 
-
+- My project (should it be fulfilled) is ultimately intended for digital game studies minors, for the purposes of enhancing studies, and providing accessible methods of video game emulation that fits a variety of skills, physical abilities and hardware. However, the proposal itself is intended for the UO administration. Digital game studies (should it become a minor) will benefit greatly from being able to study games that are older and harder to get their hands on. I plan on reaching this audience by my administration project proposal, and which would make a substantive change to the program. 
+- 
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- respond here 
+- As I haven’t finalized my specific programs for video game emulation, this is all subject to change. However, I plan to suggest software and hardware that currently exists in the market, and will not be doing any coding myself. I am using criteria listed above to evaluate and choose emulators for research purposes. For example, one emulator I plan to use is OpenEMU, an open-source emulator on Mac. Besides these, I plan on potentially speaking to specific University of Oregon professors for background/prevalence/context of emulators in my proposal, such as Maxwell Foxman and Amanda Cote. 
 
 ---
 # week 7
