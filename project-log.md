@@ -91,24 +91,24 @@ HeinOnline.
 ## annotated bibliography, continued
 
 ### source 4 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Guins, Raiford. Game after : a Cultural Study of Video Game Afterlife. Cambridge, Massachusetts: MIT Press, 2014. Print.
+- summary: This book written by Raiford Guin, begins by providing an examination of museum and library collections of video games as a way to follow the progression of the industry over time. Guin evaluates the life-cycle of a video game including what happens after a game becomes obsolete. The book continues by looking at case studies of particular games once they were out of date, what happened to them in terms of collections, and why they were –or were not– memorialized. 
+- potential use for project: goes into detail on current practices of preservation, not just emulation, and explores collections of games in different spaces. 
 
 ### source 5 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Lowood, Henry, and Raiford Guins. Debugging Game History : a Critical Lexicon. Ed. Henry Lowood and Raiford Guins. Cambridge, Massachusetts ;: The MIT Press, 2016. Print.
+- summary: This collection of essays was curated by many researchers across academic fields that relate to game studies, primarily focusing on critical historical studies. Individuals from game design to etymology share thoughts on different aspects of history. One of these essays by Jon Ippolito looks at follows the history of emulation alongside the rise, fall, and resurgence of the game industry. Another essay, by Jas Purewal, defines many terms about intellectual property used in reference to video games. 
+- potential use for project: the essay collection offers lots of information about emulation history and video game history as a whole
 
 ### source 6 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Farrand, Benjamin. “Emulation Is the Most Sincere Form of Flattery: - Retro Videogames, ROM Distribution and Copyright.” IDP : revista de internet, derecho y política 14 (2012): 5–. Web.
+- summary: The article by Benjamin Farrand addresses the issue of ripping ROM data as an effort to play older games. Farrand first explains the technology behind ROM files and emulation. Then the article explores copyright infringement when it comes to emulating video games and 
+- potential use for project: provides detailed explanations of ROM and emulation as well as concerns for copyright infringements 
 
 ### source 7 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Winget, Megan A. "Videogame preservation and massively multiplayer online role‐playing games: A review of the literature." Journal of the American Society for Information Science and Technology 62.10 (2011): 1869-1883.
+- summary: Megan Winget examines the complications with preservation of online multiplayer video games in this article. The article reviews the technological difficulties of game preservation such as mods as an added complication. Winget also raises the concern of how rapidly unavailable video games can become in concern of capturing and preserving. The importance of highlighting games as social artifacts when preserving them. 
+- potential use for project: raises concerns technological difficulties and reminds the importance of social/ cultural preservation alongside physical
 
 ## environmental scan
 *The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
