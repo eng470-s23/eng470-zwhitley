@@ -4,7 +4,8 @@ plugins:
 
 # Setup
 title:  "How to Explore Video Games through Emulators: A Proposal for Digital Game Study"                
-description:  [description]      
+description: [This project seeks to answer my research question: What is the best method for accessible video game emulation that fits a variety of physical abilities and hardware, for the purpose of digital game studies by students and faculty at the University of Oregon?]
+     
 
 github:
   zip_url: http://eng470-s23.github.io
