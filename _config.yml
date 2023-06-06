@@ -4,6 +4,10 @@ plugins:
 
 # Setup
 title:  "How to Explore Video Games through Emulators: A Proposal for Digital Game Study"                
-description:         
+description:  [description]      
+
+github:
+  zip_url: http://eng470-s23.github.io
+ 
 url:     http://eng470-s23.github.io          
 baseurl:   /eng470-zwhitley/            
