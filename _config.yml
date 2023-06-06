@@ -3,8 +3,7 @@ plugins:
 - jekyll-remote-theme 
 
 # Setup
-title:  "ENG 470 S23 Demo Site"             
-tagline:             
+title:  "How to Explore Video Games through Emulators: A Proposal for Digital Game Study"                
 description:         
 url:     http://eng470-s23.github.io          
 baseurl:   /eng470-zwhitley/            
