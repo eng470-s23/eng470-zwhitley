@@ -8,3 +8,5 @@ If you're a student in the class, the front page of your GitHub pages site will 
 
 Photo by <a href="https://unsplash.com/@webfactoryltd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">WebFactory Ltd</a> on <a href="https://unsplash.com/photos/NoOrDKxUfzo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+My Research Goal: Use my resources to determine the best method of emulation based on accessibility, hardware, and software legality.
+
