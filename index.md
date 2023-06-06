@@ -10,3 +10,8 @@ Photo by <a href="https://unsplash.com/@webfactoryltd?utm_source=unsplash&utm_me
   
 My Research Goal: Use my resources to determine the best method of emulation based on accessibility, hardware, and software legality.
 
+Table of Contents: 
+- [project log](project-log.md)
+- [presentation](presentation.md)
+- [data management](data-management.md)
+
