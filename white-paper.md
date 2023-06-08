@@ -10,7 +10,7 @@ Not a bad idea to include a table of contents here with relative links to your s
 
 ## Project Summary/Abstract (1 paragraph) 
 
-When people think emulators, they think retro games and pirated software. However, this paints a misconstrued picture of the uses and purposes of emulators – from emulating current games to make use of the unique properties and tools, to preserving games, or to help gamers who may be physically disabled play games previously inaccessible (due to control schemes, older hardware, and many other reasons). The problem is, no one is talking about emulation for these purposes. Video game studies primarily has focused on the use of emulators for preservations purposes, and not for the disability reasons listed above. This project, throught literary review and popular media analysis aims to start a conversation at the University of Oregon with the goal to begin talk about this research gap. 
+When people think emulators, they think retro games and pirated software. However, this paints a misconstrued picture of the uses and purposes of emulators – from emulating current games to make use of the unique properties and tools, to preserving games, and to help gamers who may be physically disabled play games previously inaccessible (due to control schemes, older hardware, and many other reasons). The problem is, no one is talking about emulation for these purposes. Scholarly research in this topic is already limited, and most video game studies research has primarily has focused on the usage of emulators for preservations purposes, and not for the reasons of usage as a medium to help provide accesibility. This project, through literary review and popular media analysis aims to start a conversation at the University of Oregon with the goal to begin talk and work to fill this research gap. 
 
 ## Project Origins and Goals
 
@@ -20,6 +20,8 @@ My project is ultimately intended for digital game studies minors, for the purpo
 
 ## Project Activities, Team, and Participants
 
+This project began on April ___ the beginning of Spring term at the University of Oregon, with 10 weeks of research conduction. 
+
 This project has been conducted solely by myself, with guidance from my professor, Dr. Mattie Burkert and review from my peers in our ENG-470 class. 
 
 ## Project Outcomes
@@ -27,6 +29,8 @@ This project has been conducted solely by myself, with guidance from my professo
 In terms of outcomes, if this project were to be adopted, the digital games studies program would benefit greatly from being able to study games through emulators. I plan on reaching this audience by my administration project proposal, and which would make a substantive change to the program.
 
 ## Project Continuation and Long-Term Impact
+
+For the future, and after I create the proposal, I plan to "leave the door open" so to speak, and let anyone who would like to continue my project pick up the pieces. This is a topic that needs to keep being talked about. 
 
 
 ---
