@@ -22,9 +22,11 @@ My project is ultimately intended for digital game studies minors, for the purpo
 
 ## Project Activities, Team, and Participants
 
-This project began on April ___ the beginning of Spring term at the University of Oregon, with 10 weeks of research conduction. 
+This project began on April 3 the beginning of Spring term at the University of Oregon, with 10 weeks of research conduction. Officially my project was formalized on Week 3, where I wrote a project pitch for the term. I also received support and guidance from my professor, who helped me formulate my ideas into something cohesive. 
 
-This project has been conducted solely by myself, with guidance from my professor, Dr. Mattie Burkert and review from my peers in our ENG-470 class. 
+My research has been primarily conducted through literary analysis, where I found my texts through online resources and libraries. I have researched and analyzed legal cases, scholarly articles about video game preservation, popular media with expertise into emulation, video game datasets, video game ROM’s and emulators. 
+
+This project has been conducted solely by myself, with guidance from my professor, and review from my peers in our ENG-470 class. 
 
 ## Project Outcomes
 
@@ -32,7 +34,9 @@ In terms of outcomes, if this project were to be adopted, the digital games stud
 
 ## Project Continuation and Long-Term Impact
 
-For the future, and after I create the proposal, I plan to "leave the door open" so to speak, and let anyone who would like to continue my project pick up the pieces. This is a topic that needs to keep being talked about. 
+For the future, and after I create the proposal, I plan to "leave the door open" so to speak, and let anyone who would like to continue my project pick up the pieces. I am officially graduating from the University of Oregon come Summer 2023, but I hope that my prototype can inspire other interested parties to continue my work, and keep talking about this topic.
+
+This is a topic that needs to keep being talked about. 
 
 
 ---
