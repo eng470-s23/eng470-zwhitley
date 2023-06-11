@@ -41,9 +41,24 @@ This is a topic that needs to keep being talked about.
 
 ---
 
-# Appendix 1: Bibliography
+# Bibliography
 
-This is where you can revise, update, and augment your annotated bib. Regardless of whether you keep the annotations, you should include a full bibliography of your sources. 
+ Newman, James. “Saving (and Re-Saving) Videogames: Rethinking Emulation for Preservation, Exhibition and Interpretation.” International Journal of Creative Media Research 1.1 (2019): n. pag. Web. https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_crossref_primary_10_33008_IJCMR_2019_08
+ 
+ 203 F.3d 596 (9th Cir. 2000) // Karas, Stan. "Sony Computer Entertainment, Inc. v. Connectix Corp. ." Berkeley Technology Law Journal, vol. 16, no. 1, 2001, pp. 33-52. HeinOnline. https://heinonline.org/HOL/LandingPage?handle=hein.journals/berktech16&div=10&id=&page=
+
+Libby, Jeffrey S. "The Best Games in Life Are Free: Videogame Emulation in a Copyrighted World." Suffolk University Law Review, vol. 36, no. 3, 2003, pp. 843-862. HeinOnline. https://heinonline.org/HOL/LandingPage?handle=hein.journals/sufflr36&div=50&id=&page=
+
+Guins, Raiford. Game after : a Cultural Study of Video Game Afterlife. Cambridge, Massachusetts: MIT Press, 2014. Print. https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1ej399r/alma99900265175501852
+
+Lowood, Henry, and Raiford Guins. Debugging Game History : a Critical Lexicon. Ed. Henry Lowood and Raiford Guins. Cambridge, Massachusetts ;: The MIT Press, 2016. Print. https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1ej399r/alma99900832899001852
+
+ Farrand, Benjamin. “Emulation Is the Most Sincere Form of Flattery: - Retro Videogames, ROM Distribution and Copyright.” IDP : revista de internet, derecho y política 14 (2012): 5–. Web. https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_crossref_primary_10_7238_idp_v0i14_1546
+ 
+Winget, M.A. (2011), Videogame preservation and massively multiplayer online role-playing games: A review of the literature. J. Am. Soc. Inf. Sci., 62: 1869-1883. https://doi.org/10.1002/asi.21530
+
+
+
 
 
 
