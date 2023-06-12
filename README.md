@@ -30,15 +30,12 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
 
 ## Methodological and Data-specific Information
-1. Description of methods for data collection and processing
-2. Project-wide definitions of codes or symbols used to note questionable and missing data 
-3. Project-wide variables list
-    - Name:
-    - Description:
-    - Value Labels:
-4. Units of measurement
-6. Geographic information
+1. Description of methods for data collection and processing: I compiled my texts for literary analysis through UO LibrarySearch and Google Scholar, tuning the search to focus on UO + Summit + Articles, with my topic in mind. I processed these texts through literary analysis and annotation.
 
 ## Credits and Acknowledgments
 
-This is where you'll acknowledge those to whom your project is indebted beyond your named collaborators and the sources on your bibliography.
+Land Acknowledgement: The technology used to produce this project and video games as a whole have been made using harmful fossil fuels, as well as exploitative labor practices. 
+
+This project was produced at The University of Oregon in Eugene, Oregon. The University of Oregon sits on Kalapuya Ilihi, the homeland of the Kalapuya people, who were forcibly removed from 1851 and 1855.
+
+I'd like to personally thank my professor for guidance on this project, and those who have supported me along the way. 
