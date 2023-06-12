@@ -4,17 +4,19 @@ Based on the [UO library research guide on data management](https://researchguid
 # expected data and formats
 *Data may originate from observations, experiments, or references; it may be derived from other sources, transformed, or the result of a simulation. Describe your data file formats. Whenever possible, [use non-proprietary formats](https://researchguides.uoregon.edu/data-management/fileformats) or convert your data to open, shareable formats when archiving data. Remember: data also includes your code and workflow documentation!*
 
-- your text here
+- For my file formats, I plan to use markdown (.md) on github as well as backup plain text .txt files. For any images or video files, I plan to use JPEG (.jpg), and MPEG-4 High Profile (.mp4). And for my project proposal, a pdf. For large data and mass storage, large files will be grouped under zip (.zip).
 
 # documentation and metadata
 *Describe how you will [document your data](https://researchguides.uoregon.edu/data-management/readme) as you gather it. Descriptions of your data (or metadata) can help you and others locate, understand, and interpret your data. Describe the applicable standards for metadata content and format that you will follow, including the procedures and tools/software you will use to capture and edit the metadata.*
 
-- your text here
+- I will document my data i
 
 # organization and storage
 *Describe your [file naming convention and version control practices](https://researchguides.uoregon.edu/data-management/filenaming). Describe [storage methods and backup procedures](https://researchguides.uoregon.edu/data-management/backup) for the data, including physical and cyber resources and facilities (hard-disk space, backup server, repository). Describe how you will take into consideration privacy, security, intellectual property, and other rights.*
 
-- holding pen for organization that gets cleared on a specific day. initial storage on github servers, backup on local computer harddrive via .zip files. 
+- Initial project storage on github servers via this repository, backup on linked google drive via .zip files. Any file organization and updating will take place through weekend updates. Any local computer organization also takes place on the same day. 
+- File naming convention will go as follows: eng470-YYYYMMDD-description.format. 
+
 
 # sharing, publication, and archiving
 *Describe what you will do to [provide others access to the data](https://researchguides.uoregon.edu/data-management/archiving). Identify any restrictions on who may access the data and under what conditions and a timeline for providing access. Also describe your plans for preserving data, outlining any changes in access anticipated during the preservation timeline, and documenting the resources and capabilities (e.g., equipment, connections, systems, expertise) needed to meet the preservation goals.*
@@ -24,4 +26,4 @@ Based on the [UO library research guide on data management](https://researchguid
 # accessibility
 *Describe your plans for ensuring that your data and project outputs are accessible for users with disabilities. Basic accessibility features include the use of alternative text for images; captions and transcripts for videos; large, easy-to-read fonts; high-contrast color schemes; text content broken up logically with section headers and lists; and links embedded [in context](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html) rather than on phrases like [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Be specific about how you will implement accessibility features that are relevant to your data.*
 
-- your text here
+- To ensure my data and project outputs are accessible for users with disabilities, I plan to 
