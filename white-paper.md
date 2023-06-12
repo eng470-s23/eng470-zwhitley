@@ -1,14 +1,19 @@
-# What's a White Paper?
-
-In digital humanities, it is common for project teams to publish a report of funded development activities after a grant cycle is completed. The following template is taken from the [instructions provided by the National Endowment for the Humanities](https://www.neh.gov/how-write-successful-white-paper-tips-odh) to recipients of Digital Humanities Advancement Grants.
-
----
 
 # White Paper 
 
-Not a bad idea to include a table of contents here with relative links to your section headers.
+[Project Summary/Abstract](https://github.com/eng470-s23/eng470-zwhitley/blob/main/white-paper.md#project-summaryabstract-1-paragraph)
 
-## Project Summary/Abstract (1 paragraph) 
+[Project Origins and Goals](https://github.com/eng470-s23/eng470-zwhitley/blob/main/white-paper.md#project-origins-and-goals)
+
+[Project Activities, Team, and Participants](https://github.com/eng470-s23/eng470-zwhitley/blob/main/white-paper.md#project-activities-team-and-participants)
+
+[Project Outcomes](https://github.com/eng470-s23/eng470-zwhitley/blob/main/white-paper.md#project-outcomes)
+
+[Project Continuation and Long-Term Impact](https://github.com/eng470-s23/eng470-zwhitley/blob/main/white-paper.md#project-continuation-and-long-term-impact)
+
+[Bibliography](https://github.com/eng470-s23/eng470-zwhitley/blob/main/white-paper.md#bibliography)
+
+## Project Summary/Abstract
 
 When people think emulators, they think retro games and pirated software. However, this paints a misconstrued picture of the uses and purposes of emulators – from emulating current games to make use of the unique properties and tools, to preserving games, and to help gamers who may be physically disabled play games previously inaccessible (due to control schemes, older hardware, and many other reasons). The problem is, no one is talking about emulation for these purposes. Scholarly research in this topic is already limited, and most video game studies research has primarily has focused on the usage of emulators for preservations purposes, and not for the reasons of usage as a medium to help provide accesibility. This project, through literary review and popular media analysis aims to start a conversation at the University of Oregon with the goal to begin talk and work to fill this research gap. 
 
