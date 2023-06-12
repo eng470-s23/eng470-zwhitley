@@ -34,7 +34,7 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Credits and Acknowledgments
 
-Land Acknowledgement: The technology used to produce this project and video games as a whole have been made using harmful fossil fuels, as well as exploitative labor practices. 
+Land Acknowledgement: The technology used to produce this project and video games as a whole have been made using harmful fossil fuels, as well as exploitative labor practices. I do not condone these practices, and encourage safer labor practices and green alternatives whenever available. 
 
 This project was produced at The University of Oregon in Eugene, Oregon. The University of Oregon sits on Kalapuya Ilihi, the homeland of the Kalapuya people, who were forcibly removed from 1851 and 1855.
 
