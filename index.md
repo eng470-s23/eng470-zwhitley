@@ -11,6 +11,8 @@ Photo by <a href="https://unsplash.com/ja/@andrew_creative?utm_source=unsplash&u
 My Research Goal: Use my resources to determine the best method of emulation based on accessibility, hardware, and software legality.
 
 Table of Contents: 
+- [White paper:](white-paper.md) 
+This White paper is a finalized write up of my project, detailing the project origins, goals and lessons learned. 
 - [Project log:](project-log.md) 
 My project log contains my detailed research from the conception of this project, and finalizing in my prototype.
 - [Presentation:](presentation.md)
