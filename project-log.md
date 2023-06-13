@@ -85,7 +85,7 @@ HeinOnline.
 ---
 # week 6
 ## notes
-- notes go here
+- nothing to note. 
 
 ## annotated bibliography, continued
 
