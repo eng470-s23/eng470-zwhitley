@@ -13,6 +13,8 @@
 
 [Bibliography](https://github.com/eng470-s23/eng470-zwhitley/blob/main/white-paper.md#bibliography)
 
+[Final Prototype](prototype.md)
+
 ## Project Summary/Abstract
 
 When people think emulators, they think retro games and pirated software. However, this paints a misconstrued picture of the uses and purposes of emulators – from emulating current games to make use of the unique properties and tools, to preserving games, and to help gamers who may be physically disabled play games previously inaccessible (due to control schemes, older hardware, and many other reasons). The problem is, no one is talking about emulation for these purposes. Scholarly research in this topic is already limited, and most video game studies research has primarily has focused on the usage of emulators for preservations purposes, and not for the reasons of usage as a medium to help provide accesibility. This project, through literary review and popular media analysis aims to start a conversation at the University of Oregon with the goal to begin talk and work to fill this research gap. 
