@@ -1,29 +1,19 @@
 # about this file
-Based on the [UO library research guide on data management](https://researchguides.uoregon.edu/data-management) and UO's [Basic Accessibility Testing guidance](https://digitalaccessibility.uoregon.edu/assessment/basictesting).
+This file contains multiple sections that detail my data management; documentation and metadata, which describes how others can understand, located and intrepret my data, as well as applicable formats; organization and storage, which describs my naming conventions, security and intellectual property; sharing, publication and archiving, which will detail access and potential restrictions; and accessibility, which will detail my plan to ensure my formats are available for users with disabilities. This format is based on the [UO library research guide on data management](https://researchguides.uoregon.edu/data-management) and UO's [Basic Accessibility Testing guidance](https://digitalaccessibility.uoregon.edu/assessment/basictesting).
 
 # expected data and formats
-*Data may originate from observations, experiments, or references; it may be derived from other sources, transformed, or the result of a simulation. Describe your data file formats. Whenever possible, [use non-proprietary formats](https://researchguides.uoregon.edu/data-management/fileformats) or convert your data to open, shareable formats when archiving data. Remember: data also includes your code and workflow documentation!*
-
-- For my file formats, I plan to use markdown (.md) on github as well as backup plain text .txt files. For any images or video files, I plan to use JPEG (.jpg), and MPEG-4 High Profile (.mp4). And for my project proposal, a pdf. For large data and mass storage, large files will be grouped under zip (.zip).
+For my file formats, I plan to use markdown (.md) on github as well as backup plain text (.txt) files stored locally for primary text files. For any images or video files that should occur within my research, I plan to use JPEG (.jpg), and MPEG-4 High Profile (.mp4). AduoAnd for my project proposal, a markdown file on github. For large data and mass storage, large files will be grouped under zip (.zip). Interviews will be recorded in MPEG-1 Audio Layer 3 (.mp3), and transcribed in markdown and plain text. 
 
 # documentation and metadata
-*Describe how you will [document your data](https://researchguides.uoregon.edu/data-management/readme) as you gather it. Descriptions of your data (or metadata) can help you and others locate, understand, and interpret your data. Describe the applicable standards for metadata content and format that you will follow, including the procedures and tools/software you will use to capture and edit the metadata.*
-
-- I will document my data i
+I will document my data in markdown, as well as on the cloud with google docs. My gathered data comes in limited formats: text and video in particular, and my writing of annotations will be available on Github, unless otherwise noted. My prototype proposal will be located under prototype.md, and my future proposal article will be located on a seperate Github repository, zwhitley11/vgemulationuo. Github will be procedurally updated throughout the week (as scheduled) to accomodate these annotations. After I have found methods of storage for individual pieces of data, I plan to use a complex Excel sheet to catalog my research. Within this catalog, I will store my metadata. My metadata will be keyword-based, labeling each article with tags, as well as descriptions. They will be numbered in the standard date format listed below.
 
 # organization and storage
-*Describe your [file naming convention and version control practices](https://researchguides.uoregon.edu/data-management/filenaming). Describe [storage methods and backup procedures](https://researchguides.uoregon.edu/data-management/backup) for the data, including physical and cyber resources and facilities (hard-disk space, backup server, repository). Describe how you will take into consideration privacy, security, intellectual property, and other rights.*
+My initial project storage on will be github servers via this repository and the vgemulationuo repository. The backup will be on a linked google drive via .zip files. Any file organization and updating will take place through weekend updates. Any local computer organization also takes place on the same day. Every 6 months, the project will be uploaded to the Scholar's Bank digital repository of UO. 
 
-- Initial project storage on github servers via this repository, backup on linked google drive via .zip files. Any file organization and updating will take place through weekend updates. Any local computer organization also takes place on the same day. 
 - File naming convention will go as follows: eng470-YYYYMMDD-description.format. 
 
-
 # sharing, publication, and archiving
-*Describe what you will do to [provide others access to the data](https://researchguides.uoregon.edu/data-management/archiving). Identify any restrictions on who may access the data and under what conditions and a timeline for providing access. Also describe your plans for preserving data, outlining any changes in access anticipated during the preservation timeline, and documenting the resources and capabilities (e.g., equipment, connections, systems, expertise) needed to meet the preservation goals.*
-
-- your text here
+- To provide others access to my data, I will be posting markdown files on this github repository, as well as the vgemulationuo repository which will detail my data through my research. This will be new annotations, interesting thoughts, and updates. Though I do have a catalog document, I plan on keeping that information restricted to myself and collaborators. I do not anticipate many changes to my data, but I plan on keeping it alive through Scholar's Bank, as well as cloud and local backups. If something were to happen to github, I would create a new page for the data to be displayed.
 
 # accessibility
-*Describe your plans for ensuring that your data and project outputs are accessible for users with disabilities. Basic accessibility features include the use of alternative text for images; captions and transcripts for videos; large, easy-to-read fonts; high-contrast color schemes; text content broken up logically with section headers and lists; and links embedded [in context](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html) rather than on phrases like [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ). Be specific about how you will implement accessibility features that are relevant to your data.*
-
-- To ensure my data and project outputs are accessible for users with disabilities, I plan to 
+- To ensure my data and project outputs are accessible for users with disabilities, I plan to: include alternative text for any images, transcripts for videos, section headings for readability, high contrast colors for presented visual aids, as well as describing the point and purpose of each hyperlink. Should any additional accomodations be needed, users can contact me personally at zwhitley@uoregon.edu for any requests. 
