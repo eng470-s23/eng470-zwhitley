@@ -1,17 +1,20 @@
 Hello World!
 
-If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
+Welcome to my project on Video Game Emulation. If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
-If you're a student in the class, the front page of your GitHub pages site will deploy from index.md. Put whatever content here you want to show up on your front page. Maybe that's your [white paper](white-paper.md) or your [presentation](presentation.md), or maybe you want to get fancy and embed your project here. 
+Let's get started: [Click here for my prototype project proposal.](prototype.md)
 
-![A laptop showing an under-construction page created with a WordPress plugin](https://images.unsplash.com/photo-1590479773265-7464e5d48118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![two video game controllers, and an older video game handheld console](https://github.com/eng470-s23/eng470-zwhitley/assets/130099456/97f17e7e-effd-4816-8d83-bb0465bd6c10)
 
-Photo by <a href="https://unsplash.com/@webfactoryltd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">WebFactory Ltd</a> on <a href="https://unsplash.com/photos/NoOrDKxUfzo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/ja/@andrew_creative?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrew varnum</a> on <a href="https://unsplash.com/photos/uNKyYp616wo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 My Research Goal: Use my resources to determine the best method of emulation based on accessibility, hardware, and software legality.
 
 Table of Contents: 
-- [project log](project-log.md)
-- [presentation](presentation.md)
-- [data management](data-management.md)
+- [Project log:](project-log.md) 
+My project log contains my detailed research from the conception of this project, and finalizing in my prototype.
+- [Presentation:](presentation.md)
+This leads to a link to download a copy of my presenation for the University of Oregon DH Capstone Research Symposium. 
+- [Data management:](data-management.md)
+This is a detailed log of how I plan to manage the data for my project. 
 
