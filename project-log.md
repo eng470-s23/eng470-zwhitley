@@ -1,11 +1,11 @@
 # week 2
 ## notes
-- notes go here
+- Project idea in conception phase.
 
 ---
 # week 3
 ## notes
-- notes go here
+- Topic chosen. 
 
 ## pitch
 - __My research topic is:__ video game emulation
@@ -21,7 +21,7 @@
 ---
 # week 4 
 ## notes
-- i have been having trouble finding suitable sources that are specifically and visibly peer reviewed
+- I have been having trouble finding suitable sources that are specific and visibly peer reviewed.
 
 ## search log
 - search log goes here
@@ -29,7 +29,6 @@
 - UO Library	4/28	"video game emulation"; journal articles	51 results
 - Google Scholar	4/28	"Sony Computer Entertainment, Inc. v. Connectix Corp."	690	results (explicitly searched for this case)
 - Google Scholar	4/28	"video game emulation"	47,100 results
-- 
 
 ## bibliography
 *The bibliography should include at least seven (7) sources:*
@@ -140,19 +139,19 @@ HeinOnline.
 ---
 # week 7
 ## notes
-- notes go here
+- Finished my data management plan and accessibility checklist.
 
 ---
 # week 8
 ## notes
-- notes go here
+- Completed my credits, land acknowledgement, and license information. 
 
 ---
 # week 9
 ## notes
-- notes go here
+- Finished and presented at the University of Oregon: DH Capstone Research Symposium.
 
 ---
 # week 10
 ## notes
-- notes go here
+- Finalized my prototype.
