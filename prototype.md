@@ -28,14 +28,14 @@ The intended audience of this project is digital game studies minors, as well as
 
 My tentative work plan is separated into 8 weeks; with funding, this project can finish research within 2 months. 
 
--Week 1: Establish research subjects: What organizations and people do I want to interview? What seminars, and places do I want to visit? What are the small-scale goals I want to accomplish? What questions do I want to ask?
--Week 2: Begin initial communication with research subjects, and begin paying for travel expenses as needed. How do I want to organize my article? What pre-research can be done?
--Week 3: Finish pre-research, and allocation of funds. Travel and interview week, so work will be done by ways of reading and literary analysis. Interview research subjects, and attend relevant seminars.
--Week 4: Start compiling research for analysis. Interviews transcribed, article outline put together. 
--Week 5: Article should be 33% through production.
--Week 6: Article should be 66% through production.
--Week 7: Article should be 100% through production, with time left for analysis, peer review and editing. 
--Week 8: Research is finalized, and off for publication.
+- Week 1: Establish research subjects: What organizations and people do I want to interview? What seminars, and places do I want to visit? What are the small-scale goals I want to accomplish? What questions do I want to ask?
+- Week 2: Begin initial communication with research subjects, and begin paying for travel expenses as needed. How do I want to organize my article? What pre-research can be done?
+- Week 3: Finish pre-research, and allocation of funds. Travel and interview week, so work will be done by ways of reading and literary analysis. Interview research subjects, and attend relevant seminars.
+- Week 4: Start compiling research for analysis. Interviews transcribed, article outline put together. 
+- Week 5: Article should be 33% through production.
+- Week 6: Article should be 66% through production.
+- Week 7: Article should be 100% through production, with time left for analysis, peer review and editing. 
+- Week 8: Research is finalized, and off for publication.
 
 ## Bibliography 
 
