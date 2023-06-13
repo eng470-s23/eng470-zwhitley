@@ -52,3 +52,5 @@ Lowood, Henry, and Raiford Guins. Debugging Game History : a Critical Lexicon.
 Farrand, Benjamin. “Emulation Is the Most Sincere Form of Flattery: - Retro Videogames, ROM Distribution and Copyright.” IDP : revista de internet, derecho y política 14 (2012): 5–. Web. https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_crossref_primary_10_7238_idp_v0i14_1546
 
 Winget, M.A. (2011), Videogame preservation and massively multiplayer online role-playing games: A review of the literature. J. Am. Soc. Inf. Sci., 62: 1869-1883. https://doi.org/10.1002/asi.21530
+
+Richter, Felix. “Infographic: Are You Not Entertained?” Statista Infographics, 12 Dec. 2022, www.statista.com/chart/22392/global-revenue-of-selected-entertainment-industry-sectors/. 
